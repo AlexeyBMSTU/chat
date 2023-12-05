@@ -1,0 +1,2 @@
+﻿Chat2.obj : error LNK2005: main уже определен в Chat.obj
+D:\Program Files\Microsoft Visual Studio\Projects\#2\Chat\x64\Debug\Chat.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
